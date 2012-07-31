@@ -1,6 +1,6 @@
 # VIM & Ruby language definitions for Prism
 
-Add support for Ruby & Vim languages to Prism.js highlighter (http://primjs.com).
+Add support for Ruby & Vim languages to Prism.js highlighter (http://prismjs.com).
 
 ## Usage
 
