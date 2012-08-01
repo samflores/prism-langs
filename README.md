@@ -13,7 +13,7 @@ Just load the language you want after prism.js and define the additional classes
 ```
 
 ```css
-.token.attr-value { ... }
+.token.inst-var { ... }
 .token.builtin { ... }
 .token.const { ... }
 .token.symbol { ... }
